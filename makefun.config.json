@@ -1,0 +1,13 @@
+{
+  "competition": "bring-the-humans-01",
+  "site": "https://make.fun",
+  "owner": "edihartono180102-sys",
+  "repo": "makefun-bring-the-humans-01-edi-20261116",
+  "referralCode": "4b99xnea",
+  "referralPath": "/r/",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "notes": "referralCode is a placeholder. Replace it with your own code from make.fun -> Referrals, then run `npm run configure` and `npm run screenshot`."
+}
